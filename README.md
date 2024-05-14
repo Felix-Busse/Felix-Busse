@@ -13,7 +13,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Felix-Busse&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Busse&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Busse&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&hide=PureBasic)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Felix-Busse&limit=5&theme=dracula&combine_all_yearly_contributions=true)
