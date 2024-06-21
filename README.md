@@ -1,6 +1,6 @@
 # 👉 Hi, I'm Felix!
 🎓 Studied Physics at University of Göttingen (M. Sc.)<br><br>
-👨‍💻 Working on embedded systems, software validation and electromagnetic compatibility (EMC)<br><br>
+👨‍💻 Working on embedded systems, requirement based hard- and software testing and electromagnetic compatibility (EMC)<br><br>
 💭 Developing on Data Science and Machine Learning on Github<br><br>
 💬 Languages 🇩🇪  🇬🇧  🇫🇷  🇮🇹
 <br>
